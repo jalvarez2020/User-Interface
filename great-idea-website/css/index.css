@@ -64,3 +64,40 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* ELEMENT SELECTORS */
+
+nav {
+	display: inline-block;
+	height: 80px;
+	width: 800px;
+}
+
+
+/* CLASS SELECTORS */
+
+.navbar {
+	width: 600px;
+	margin: 0px 30px;
+	padding-top: 100px;
+	display: inline;
+}
+
+.logo {
+	display: inline-block;
+	float: right;
+	padding-bottom: 0px;
+}
+
+/* ID SELECTORS */
+
+#ideaHeader {
+
+	margin: 30px;
+}
+
+#navwrap {
+	padding-top: 30px;
+	height: 80px;
+}
+
