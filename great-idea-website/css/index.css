@@ -107,3 +107,23 @@ nav {
 	height: 80px;
 }
 
+#articleHeader {
+  
+	width: 600px;
+	height: 600px;
+}
+
+#Innovation {
+	text-align: center;
+	width: 300px;
+	height: 300px;
+	font-size: 5em;
+}
+
+#codeSnippet {
+
+	
+	
+}
+
+/* PUESUDO SELECTORS */
