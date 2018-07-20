@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5 {
 nav {
 	display: inline-block;
 	height: 80px;
-	width: 800px;
+	width: 700px;
 }
 
 
@@ -81,6 +81,7 @@ nav {
 	margin: 0px 30px;
 	padding-top: 100px;
 	display: inline;
+	color: lightgrey;
 }
 
 .logo {
@@ -96,8 +97,13 @@ nav {
 	margin: 30px;
 }
 
+#codeSnippet {
+	
+	float: right;
+}
+
 #navwrap {
-	padding-top: 30px;
+	padding-top: 10px;
 	height: 80px;
 }
 
