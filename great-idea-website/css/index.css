@@ -77,7 +77,6 @@ nav {
 /* CLASS SELECTORS */
 
 .navbar {
-	width: 600px;
 	margin: 0px 30px;
 	padding-top: 100px;
 	display: inline;
@@ -108,22 +107,46 @@ nav {
 }
 
 #articleHeader {
-  
-	width: 600px;
-	height: 600px;
+	display: inline-block;
+	width: 50%;
+	height: 500px;
 }
 
 #Innovation {
+	display: inline-block;
+	margin: 0px;
 	text-align: center;
-	width: 300px;
-	height: 300px;
+	width: 100%;
 	font-size: 5em;
 }
 
-#codeSnippet {
+#innovationWrap {
+	margin-top: 50px;
+	width: auto;
+}
 
+#codeSnippet {
+	height: 379px;
+	width: 379px;
+	float: right;
 	
 	
 }
 
+
 /* PUESUDO SELECTORS */
+
+
+h2:last-child {
+	text-align: center;
+	width:150px;
+	padding: 5px 0;
+	margin: 20px auto;
+	text-align: center;
+	color: black;
+	font-family: sans-;
+	font-weight: 400;
+	border: 1px solid black;
+	letter-spacing: 1px;
+
+}
