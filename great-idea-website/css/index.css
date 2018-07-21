@@ -73,6 +73,11 @@ nav {
 	width: 700px;
 }
 
+footer {
+	margin: 50px;
+	text-align: center;
+}
+
 
 /* CLASS SELECTORS */
 
@@ -202,10 +207,21 @@ nav {
 }
 
 #information {
-
 	height: 590px;
 }
 
+contactWrap {
+
+	display: block;
+	width: 876px;
+	margin: auto;
+}
+
+#contactInfo {
+	display: block;
+	width: 876px;
+	margin: auto;
+}
 
 
 
