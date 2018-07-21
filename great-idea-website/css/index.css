@@ -80,7 +80,7 @@ nav {
 	margin: 0px 30px;
 	padding-top: 100px;
 	display: inline;
-	color: lightgrey;
+	color: rgb(151, 151, 151);
 }
 
 .logo {
@@ -89,11 +89,32 @@ nav {
 	padding-bottom: 0px;
 }
 
+.firstsections {
+
+	display: inline-block;
+	width: 50%;
+	margin: 30px 0px 30px 0px;
+	
+}
+
+.middle-img {
+
+	text-align: center;
+}
+
+
+.secondSections {
+
+	display: inline-block;
+	width: 20%;
+	margin: 30px 0px 30px 0px;
+}
+
 /* ID SELECTORS */
 
 #ideaHeader {
 
-	margin: 30px;
+	margin: 70px;
 }
 
 #codeSnippet {
@@ -109,10 +130,10 @@ nav {
 #articleHeader {
 	display: inline-block;
 	width: 50%;
-	height: 500px;
+	height: 450px;
 }
 
-#Innovation {
+#innovation {
 	display: inline-block;
 	margin: 0px;
 	text-align: center;
@@ -129,10 +150,37 @@ nav {
 	height: 379px;
 	width: 379px;
 	float: right;
+	margin-right: 79px;
+} 
+
+
+#firstSection {
+	width: 876px;
+	height: 100px;
+	display: block;
+	margin: auto;
+	border-top: 1px solid black;
 	
 	
 }
 
+#aboutSection {
+
+	float: right;
+}
+
+#imgWrapper {
+
+	text-align: center;
+}
+
+#secondSection {
+	width: 876px;
+	height: 100px;
+	display: block;
+	margin: auto;
+	border-top: 1px solid black;
+}
 
 /* PUESUDO SELECTORS */
 
